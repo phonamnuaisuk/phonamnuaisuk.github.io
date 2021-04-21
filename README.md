@@ -1,1 +1,0 @@
-# phonamnuaisuk.github.io
