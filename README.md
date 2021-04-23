@@ -1,2 +1,2 @@
 # phonamnuaisuk.github.io
-Teaching materials for my classes
+Random teaching materials for various courses
