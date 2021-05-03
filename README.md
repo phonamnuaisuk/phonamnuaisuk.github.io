@@ -1,2 +1,2 @@
 # phonamnuaisuk.github.io
-Random teaching materials for various courses
+Random teaching materials for various courses and workshops.
