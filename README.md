@@ -1,2 +1,3 @@
 # phonamnuaisuk.github.io
-Random teaching materials for various courses and workshops.
+Random materials for various free public courses and workshops.
+Access: https://phonamnuaisuk.github.io
